@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/bin/bash
 
 if [ $1 = "init" ]; then
 
